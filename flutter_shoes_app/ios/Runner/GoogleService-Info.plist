@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>268228275699-11pkg1sb7eamhmu2ogqu613qt57ogl5g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.268228275699-11pkg1sb7eamhmu2ogqu613qt57ogl5g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAvXToDUo3yPhhd40IcZmP0sPIe3KfDwug</string>
+	<key>GCM_SENDER_ID</key>
+	<string>268228275699</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ddthanh.flutterShoesApp</string>
+	<key>PROJECT_ID</key>
+	<string>myshoeapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myshoeapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:268228275699:ios:c7f7f6f31a2bddbc853686</string>
+</dict>
+</plist>
